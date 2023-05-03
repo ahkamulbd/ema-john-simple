@@ -1,0 +1,14 @@
+.product {
+    width: 300px;
+    height: 520px;
+    background-color: darkgray;
+    border: 1px solid magenta;
+    border-radius: 10px;
+}
+
+.product img {
+    width: 286px;
+    height: 286px;
+    margin: 10px;
+    border-radius: 10px;
+}
